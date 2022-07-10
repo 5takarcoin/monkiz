@@ -1,0 +1,21 @@
+* {
+    font-family: sans-serif;
+    background-color: rgb(41, 34, 34);
+    color: whitesmoke;
+}
+
+h1 {
+    color: lightpink;
+    font-size: 40px;
+    text-align: center;
+}
+
+a {
+    font-size: 20px;
+    text-decoration: none;
+}
+
+img {
+    height: 500px;
+    width: auto;
+}
